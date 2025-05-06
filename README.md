@@ -1,45 +1,34 @@
-# 👋 Hey, I'm Chawais – @chawaisdev
+# 👋 Hi, I'm Chawais – @chawaisdev
 
-## 💼 Full Stack Web Developer
+## 💼 Full Stack Web Developer (3+ Years Experience)
 
-🎯 Specialized in:
-- 🌐 **HTML**, **CSS**, **JavaScript**
-- 🎨 **Bootstrap**, Responsive Design
-- 🧰 **PHP**, **Laravel**
-- 🗃️ **SQL**, Database Management
-- 🛠️ **Git**, **GitHub**
-- 🛒 **Shopify**, Custom WordPress Development
-
-With over **3+ years of experience**, I build modern, high-performance websites and eCommerce solutions.
+### 🔧 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • Bootstrap  
+**Backend:** PHP • Laravel • SQL  
+**Other:** Git • GitHub • Shopify • WordPress  
 
 ---
 
-## 💡 My Expertise
-- Frontend & Backend Web Development 🖥️⚙️  
-- Responsive Design for All Devices 📱💻🖥️  
-- Clean, scalable, and maintainable code 🧼📐  
+### 💡 Expertise
+- Full Stack Web Development 🖥️⚙️  
+- Custom WordPress & Shopify Development 🛒  
+- Responsive, Clean & Scalable Code 💡
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Exploring
 - Tailwind CSS 💨  
-- Headless CMS (e.g., Strapi, Sanity) 🧠  
+- Headless CMS (Strapi, Sanity) 🧠  
 
 ---
 
-## 🤝 Let's Collaborate
-I'm open to working on:
-- ✨ Custom website projects  
-- 🛍️ Shopify or WordPress stores  
-- 🧩 Full-stack web development  
+### 🤝 Available For
+- E-commerce Projects  
+- Full-Stack Web Apps  
+- WordPress / Shopify Custom Work  
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: **chawaisdev@gmail.com**  
-- 💬 DM me here on GitHub  
-
----
-
-## ⚡ Fun Fact
-I love turning ideas into functional websites — fast, clean, and pixel-perfect! ⚡💻
+### 📫 Contact
+📧 Email: **chawaisdev@gmail.com**  
+💬 GitHub DM  
